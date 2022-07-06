@@ -15,10 +15,10 @@ Next, the task was to save text in the textArea space that gets the item from lo
 Lastly, depending on the time of day the calendar boxes will either be red, green, or gray.
 
 ## Visuals
- Img 1
+ ![sample Image](Image.png)
 
 
 ## Deployment
 
-[link to live webiste]()
-[link to github repo]()
+[link to live webiste](https://ju1williams.github.io/Workday-Schedule/)
+[link to github repo](https://github.com/Ju1Williams/Workday-Schedule.git)

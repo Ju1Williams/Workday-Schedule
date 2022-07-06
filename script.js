@@ -8,28 +8,17 @@ setInterval(function(){
 //Save Text Area
 
 
+// Change color depending on time
+
+var liveTime = $('#currentDay')
+var hour9 = $("#9")
+
+if (hour9 < liveTime) {
+  $('#9').addClass('.past')
+};
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//FUnctionality with saving the notes
+//Functionality with saving the notes
 //listen for button clicks then save button
 //Message prompts when saved to local file, by grabbing value inside text area
 
